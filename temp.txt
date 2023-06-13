@@ -1,0 +1,30 @@
+//   const [click, setClick] = useState(false);
+  //   const [button, setButton] = useState(true);
+  //   const [navbar, setNavbar] = useState(false);
+
+  //   const handleClick = () => setClick(!click);
+  //   const closeMobileMenu = () => setClick(false);
+
+  //   const showButton = () => {
+  //     if (window.innerWidth <= 960) {
+  //       setButton(false);
+  //     } else {
+  //       setButton(true);
+  //     }
+  //   };
+
+  //   useEffect(() => {
+  //     showButton();
+  //   }, []);
+
+  //   window.addEventListener("resize", showButton);
+
+  //   const changeBackground = () => {
+  //     if (window.scrollY >= 100) {
+  //       setNavbar(true);
+  //     } else {
+  //       setNavbar(false);
+  //     }
+  //   };
+
+  //   window.addEventListener("scroll", changeBackground);
